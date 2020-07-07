@@ -1,0 +1,10 @@
+Armenia;Cote d'Ivoire;2020-10-14 22:30:00;2055.30
+Kyrgyz Republic;Uganda;2021-04-18 14:44:00;2081.80
+Belgium;Chad;2021-02-23 03:27:00;2000.90
+Panama;Tanzania;2021-10-16 20:49:00;2639.00
+Finland;Iceland;2021-08-28 02:34:00;2819.50
+Saint Helena;Samoa;2021-04-21 13:45:00;1012.00
+Senegal;Brunei Darussalam;2021-06-05 13:27:00;679.90
+Iran;Norfolk Island;2020-12-28 07:40:00;270.30
+Panama;Finland;2021-06-27 12:44:00;1379.30
+Qatar;Guinea;2021-07-14 18:49:00;625.10
